@@ -28,6 +28,6 @@ java -jar SolverGalias.jar instancefile.switch kmax to install kmax sectionalizi
 java -jar SolverIflowCutsOn.jar instancefile.switch to install sectionalizing switches in all arcs of the network or
 java -jar SolverIflowCutsOn.jar instancefile.switch kmax to install kmax sectionalizing switches
 
-Also, you can run the models directly using SolverIflows and SolverGalias classes.
+Also, you can run the models directly using SolverIflows, SolverGalias or SolverIflowCutsOn classes.
 
 
